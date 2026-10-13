@@ -1,0 +1,8 @@
+{
+    "game": "Prisma Road",
+    "description": "Prisma Road World",
+    "authors": ["Anriot"],
+    "world_version": "0.1.0",
+    "version": 7,
+    "compatible_version": 7
+}
